@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepOcean", "DeepOcean\DeepOcean.csproj", "{3C2C6910-BDDD-4E7F-AA09-688BC5BAE509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2C6910-BDDD-4E7F-AA09-688BC5BAE509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2C6910-BDDD-4E7F-AA09-688BC5BAE509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2C6910-BDDD-4E7F-AA09-688BC5BAE509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2C6910-BDDD-4E7F-AA09-688BC5BAE509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA32B44-F88E-4CF9-B9AF-A2DF868E2619}
+	EndGlobalSection
+EndGlobal
